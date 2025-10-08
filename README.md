@@ -48,6 +48,8 @@ Welcome! This repository contains a convenient **setup script** to automate the 
 ```
 4. **Restart your terminal or log out and log back in to apply shell and font changes.**
 
+5. **Move the .configs from the repo (fish, i3, i3status and rofi) into your system .config** - If you want my setup. If not, configure to your liking.
+
 ----
 **Note:**
-You may need to set shell to fish manually after the install.
+- You may need to set shell to fish manually after the install.
