@@ -1,0 +1,9 @@
+adobe-source-han-serif-otc-fonts
+discord
+eza
+fisher
+ghostty
+peco
+proton-vpn-gtk-app
+torbrowser-launcher
+zoxide
