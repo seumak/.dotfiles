@@ -46,9 +46,9 @@ Welcome! This repository contains a convenient **setup script** to automate the 
   ./setup.sh
 
 ```
-4. **Restart your terminal or log out and log back in to apply shell and font changes.**
+4. **Move the .configs from the repo (fish, i3, i3status and rofi) into your system .config** - If you want my setup. If not, configure to your liking.
 
-5. **Move the .configs from the repo (fish, i3, i3status and rofi) into your system .config** - If you want my setup. If not, configure to your liking.
+5. **Restart your terminal or log out and log back in to apply shell and font changes.**
 
 ----
 **Note:**
