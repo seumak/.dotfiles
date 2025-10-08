@@ -48,3 +48,6 @@ Welcome! This repository contains a convenient **setup script** to automate the 
 ```
 4. **Restart your terminal or log out and log back in to apply shell and font changes.**
 
+----
+**Note:**
+You may need to set shell to fish manually after the install.
