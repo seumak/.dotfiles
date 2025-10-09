@@ -7,3 +7,4 @@ peco
 proton-vpn-gtk-app
 torbrowser-launcher
 zoxide
+aseprite
